@@ -1,8 +1,3 @@
-# React + Vite
+# Desafío 1 - React 1: Adopta un perrito
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Se han subido en este repositorio todos los archivos generados a través de npm create vite y la instalación de Bootstrap 5.1.3, para esto, se eliminó el contenido del archivo .gitignore para poder subir todo el contenido del desafío.
